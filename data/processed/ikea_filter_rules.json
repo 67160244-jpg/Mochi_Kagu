@@ -1,0 +1,24 @@
+{
+  "total_raw_rows": 3694,
+  "rows_with_complete_dimensions": 1899,
+  "rules": [
+    {
+      "rule": "มิติครบ 3 ด้าน (depth > 0, height > 0, width > 0)",
+      "description": "เพื่อใช้คำนวณพื้นที่จัดวาง (Footprint m²) และปริมาตร (Volume m³)",
+      "passed_count": 1899,
+      "filtered_out": 1795
+    },
+    {
+      "rule": "ราคา >= 50 SAR",
+      "description": "คัดอุปกรณ์เสริม ชิ้นส่วนขนาดเล็ก เช่น ขาเตียง สกรู ลูกบิด ออกจากการวิเคราะห์เฟอร์นิเจอร์หลัก",
+      "filtered_out_under_50": 51
+    },
+    {
+      "rule": "ไม่ใช่อุปกรณ์เสริม (Accessory exclusion keywords)",
+      "description": "ตรวจจับคำศัพท์อุปกรณ์เสริมในชื่อหรือคำอธิบาย เช่น leg, legs, knob, knobs, handle, handles, castor, castors ...",
+      "filtered_out_accessories": 140
+    }
+  ],
+  "final_main_furniture_count": 1734,
+  "note": "เฉพาะรายการที่ผ่านเกณฑ์ทั้งหมดจึงจะได้รับ flag is_main_furniture = true เพื่อนำไปคำนวณ benchmark ราคาต่อลูกบาศก์เมตร"
+}

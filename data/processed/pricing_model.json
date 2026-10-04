@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "description": "โมเดลจำลองราคาตามขนาดและต้นทุนไม้ สำหรับสาธิต Value Proposition ของ Mochi Kagu",
+    "currency_benchmark": "SAR",
+    "currency_display_default": "THB",
+    "benchmark_source": "IKEA Saudi Arabia (Main Furniture Items, 2020)",
+    "assumption_warning": "ตัวเลขทั้งหมดเป็นการคำนวณประมาณการจาก benchmark เชิงสถิติ ไม่ใช่ราคาขายจริงของสินค้า"
+  },
+  "formula": {
+    "base_price": "volume_m3 * median_price_per_m3",
+    "adjusted_price": "base_price * (1 + wood_cost_share * timber_change_pct)",
+    "uncertainty_range": "[volume_m3 * p25_price_per_m3, volume_m3 * p75_price_per_m3]"
+  },
+  "defaults": {
+    "wood_cost_share": 0.25,
+    "wood_cost_share_label": "25% (สมมติฐานสัดส่วนต้นทุนไม้ในราคาขาย)",
+    "fx_sar_to_thb": 9.25,
+    "material": "hardwood"
+  },
+  "materials": [
+    {
+      "id": "hardwood",
+      "name_th": "ไม้เนื้อแข็ง (Solid Hardwood)",
+      "benchmark_series": "Sawnwood, Malaysian (World Bank)",
+      "latest_usd_m3": 731.3,
+      "unit": "USD / m³",
+      "description": "อิงราคาไม้แปรรูป Sawnwood Malaysian ใน Pink Sheet ล่าสุด $731.3/ลบ.ม."
+    },
+    {
+      "id": "plywood",
+      "name_th": "ไม้อัดเกรดพรีเมียม (Premium Plywood)",
+      "benchmark_series": "Plywood (World Bank)",
+      "latest_usd_m3": 349.1,
+      "unit": "Cents / Sheet",
+      "description": "อิงราคาไม้อัด Plywood ใน Pink Sheet ล่าสุด 349.1 เซนต์/แผ่น"
+    }
+  ],
+  "categories": {
+    "Bar furniture": {
+      "category": "Bar furniture",
+      "main_items": 24,
+      "price_per_m3_median": 1441,
+      "price_per_m3_p25": 1071,
+      "price_per_m3_p75": 2094,
+      "sample_median_footprint": 0.218
+    },
+    "Beds": {
+      "category": "Beds",
+      "main_items": 74,
+      "price_per_m3_median": 2217,
+      "price_per_m3_p25": 1347,
+      "price_per_m3_p75": 7178,
+      "sample_median_footprint": 1.42
+    },
+    "Bookcases & shelving units": {
+      "category": "Bookcases & shelving units",
+      "main_items": 313,
+      "price_per_m3_median": 1065,
+      "price_per_m3_p25": 599,
+      "price_per_m3_p75": 1542,
+      "sample_median_footprint": 0.438
+    },
+    "Cabinets & cupboards": {
+      "category": "Cabinets & cupboards",
+      "main_items": 184,
+      "price_per_m3_median": 1973,
+      "price_per_m3_p25": 1471,
+      "price_per_m3_p75": 2466,
+      "sample_median_footprint": 0.381
+    },
+    "Café furniture": {
+      "category": "Café furniture",
+      "main_items": 13,
+      "price_per_m3_median": 1774,
+      "price_per_m3_p25": 1193,
+      "price_per_m3_p75": 2079,
+      "sample_median_footprint": 0.23
+    },
+    "Chairs": {
+      "category": "Chairs",
+      "main_items": 201,
+      "price_per_m3_median": 1434,
+      "price_per_m3_p25": 983,
+      "price_per_m3_p75": 1898,
+      "sample_median_footprint": 0.27
+    },
+    "Chests of drawers & drawer units": {
+      "category": "Chests of drawers & drawer units",
+      "main_items": 99,
+      "price_per_m3_median": 2096,
+      "price_per_m3_p25": 1495,
+      "price_per_m3_p75": 2696,
+      "sample_median_footprint": 0.376
+    },
+    "Children's furniture": {
+      "category": "Children's furniture",
+      "main_items": 71,
+      "price_per_m3_median": 1400,
+      "price_per_m3_p25": 967,
+      "price_per_m3_p75": 1764,
+      "sample_median_footprint": 0.3
+    },
+    "Nursery furniture": {
+      "category": "Nursery furniture",
+      "main_items": 57,
+      "price_per_m3_median": 1441,
+      "price_per_m3_p25": 1128,
+      "price_per_m3_p75": 1836,
+      "sample_median_footprint": 0.32
+    },
+    "Outdoor furniture": {
+      "category": "Outdoor furniture",
+      "main_items": 77,
+      "price_per_m3_median": 1240,
+      "price_per_m3_p25": 772,
+      "price_per_m3_p75": 1531,
+      "sample_median_footprint": 0.571
+    },
+    "Room dividers": {
+      "category": "Room dividers",
+      "main_items": 6,
+      "price_per_m3_median": 854,
+      "price_per_m3_p25": 647,
+      "price_per_m3_p75": 1005,
+      "sample_median_footprint": 0.573
+    },
+    "Sideboards, buffets & console tables": {
+      "category": "Sideboards, buffets & console tables",
+      "main_items": 19,
+      "price_per_m3_median": 1978,
+      "price_per_m3_p25": 1642,
+      "price_per_m3_p75": 2273,
+      "sample_median_footprint": 0.54
+    },
+    "Sofas & armchairs": {
+      "category": "Sofas & armchairs",
+      "main_items": 213,
+      "price_per_m3_median": 1521,
+      "price_per_m3_p25": 1163,
+      "price_per_m3_p75": 2148,
+      "sample_median_footprint": 1.93
+    },
+    "TV & media furniture": {
+      "category": "TV & media furniture",
+      "main_items": 92,
+      "price_per_m3_median": 1324,
+      "price_per_m3_p25": 966,
+      "price_per_m3_p75": 2149,
+      "sample_median_footprint": 0.72
+    },
+    "Tables & desks": {
+      "category": "Tables & desks",
+      "main_items": 85,
+      "price_per_m3_median": 1589,
+      "price_per_m3_p25": 1117,
+      "price_per_m3_p75": 2285,
+      "sample_median_footprint": 0.298
+    },
+    "Trolleys": {
+      "category": "Trolleys",
+      "main_items": 8,
+      "price_per_m3_median": 2380,
+      "price_per_m3_p25": 1767,
+      "price_per_m3_p75": 2953,
+      "sample_median_footprint": 0.416
+    },
+    "Wardrobes": {
+      "category": "Wardrobes",
+      "main_items": 198,
+      "price_per_m3_median": 1107,
+      "price_per_m3_p25": 810,
+      "price_per_m3_p75": 1333,
+      "sample_median_footprint": 0.9
+    }
+  }
+}
