@@ -1,0 +1,29 @@
+{
+  "data_type": "secondary_news",
+  "source_organization": "ศูนย์ข้อมูลอสังหาริมทรัพย์ ธนาคารอาคารสงเคราะห์ (REIC)",
+  "accessed_date": "2026-10-05",
+  "note": "ข้อมูลทุติยภูมิที่อ้างอิงจากรายงานข่าวเศรษฐกิจ แนะนำให้ตรวจสอบกับเว็บไซต์ต้นฉบับ https://www.reic.or.th",
+  "items": {
+    "q1_2569": {
+      "period_label": "ไตรมาส 1 ปี 2569",
+      "new_units": 8370,
+      "new_units_yoy_pct": -31.1,
+      "previous_year_units": 12140,
+      "new_value_million_thb": 59782,
+      "new_value_yoy_pct": -10.4,
+      "previous_year_value_million_thb": 66738,
+      "avg_price_per_unit_thb": 7142413,
+      "avg_price_per_unit_previous_thb": 5497364,
+      "avg_price_change_pct": 29.9,
+      "source_url": "https://www.matichon.co.th/?p=210677",
+      "strategic_insight": "จำนวนหน่วยเปิดขายลดลงถึง 31.1% แต่มูลค่ารวมลดลงเพียง 10.4% คำนวณได้ว่าราคาเฉลี่ยต่อหน่วยเพิ่มขึ้นประมาณ 29.9% สะท้อนว่าตลาดเน้นที่อยู่อาศัยระดับกลาง-บนขึ้นไปที่มีกำลังซื้อในการตกแต่งห้อง"
+    },
+    "supply_estimate_2568": {
+      "period_label": "ปี 2568 (ประมาณการ)",
+      "estimated_units": 52000,
+      "yoy_pct": -17,
+      "source_url": "https://www.bangkokbiznews.com/property/1211555",
+      "strategic_insight": "ซัพพลายที่อยู่อาศัยใหม่ใน กทม.-ปริมณฑล มีแนวโน้มชะลอตัว ผู้บริโภคหันมาปรับปรุงและจัดสรรพื้นที่คอนโด/บ้านเดิมที่มีพื้นที่จำกัดให้คุ้มค่าที่สุด"
+    }
+  }
+}

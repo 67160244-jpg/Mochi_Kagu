@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Biski';
+    src: url('/fonts/Biski.woff2') format('woff2'),
+         url('/fonts/Biski.woff') format('woff'),
+         url('/fonts/Biski.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  body {
+    @apply bg-mochi-cream text-mochi-brown font-sans antialiased;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display font-medium text-mochi-brown tracking-tight;
+  }
+}
+
+/* Custom Soft Japandi Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #EEE6F5;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #D9CBE8;
+  border-radius: 9999px;
+  border: 2px solid #EEE6F5;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #C79B6E;
+}
+
+/* Accessible focus ring */
+:focus-visible {
+  outline: 2px solid #D86A88;
+  outline-offset: 2px;
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Soft playful card and interactive styling */
+.mochi-card {
+  @apply bg-white rounded-mochi p-6 shadow-mochi border border-mochi-lavender/30 transition-all duration-300;
+}
+
+.mochi-card:hover {
+  @apply shadow-mochi-hover;
+}
+
+.mochi-button {
+  @apply inline-flex items-center justify-center font-medium rounded-mochi transition-all duration-200 active:scale-95 disabled:opacity-50 disabled:pointer-events-none;
+}
+
+.mochi-button-primary {
+  @apply mochi-button bg-mochi-pink text-mochi-brown-dark hover:bg-mochi-pink-dark hover:text-white px-5 py-2.5 shadow-sm;
+}
+
+.mochi-button-secondary {
+  @apply mochi-button bg-white text-mochi-brown border border-mochi-lavender hover:bg-mochi-lavender-light px-4 py-2;
+}
+
+.mochi-button-wood {
+  @apply mochi-button bg-mochi-wood text-white hover:bg-mochi-wood-dark px-5 py-2.5 shadow-sm;
+}

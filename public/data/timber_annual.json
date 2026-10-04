@@ -1,0 +1,1126 @@
+{
+  "series": [
+    {
+      "year": 1960,
+      "nominal": {
+        "sawnwood_malaysian": 149.2,
+        "logs_malaysian": 31.9,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 779.3,
+        "logs_malaysian": 166.9,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1961,
+      "nominal": {
+        "sawnwood_malaysian": 152,
+        "logs_malaysian": 33.1,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 778.8,
+        "logs_malaysian": 169.4,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1962,
+      "nominal": {
+        "sawnwood_malaysian": 160.1,
+        "logs_malaysian": 36.4,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 805.2,
+        "logs_malaysian": 183.1,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1963,
+      "nominal": {
+        "sawnwood_malaysian": 157.8,
+        "logs_malaysian": 35.5,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 808.8,
+        "logs_malaysian": 181.8,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1964,
+      "nominal": {
+        "sawnwood_malaysian": 144.8,
+        "logs_malaysian": 30.3,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 731.9,
+        "logs_malaysian": 152.9,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1965,
+      "nominal": {
+        "sawnwood_malaysian": 156.7,
+        "logs_malaysian": 35,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 784.6,
+        "logs_malaysian": 175.3,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1966,
+      "nominal": {
+        "sawnwood_malaysian": 161.1,
+        "logs_malaysian": 36.8,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 777.6,
+        "logs_malaysian": 177.8,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1967,
+      "nominal": {
+        "sawnwood_malaysian": 166.9,
+        "logs_malaysian": 39.3,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 798.6,
+        "logs_malaysian": 188.2,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1968,
+      "nominal": {
+        "sawnwood_malaysian": 168.5,
+        "logs_malaysian": 40,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 813.6,
+        "logs_malaysian": 193.3,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1969,
+      "nominal": {
+        "sawnwood_malaysian": 165.9,
+        "logs_malaysian": 38.9,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 760.2,
+        "logs_malaysian": 178.2,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": null,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1970,
+      "nominal": {
+        "sawnwood_malaysian": 175.4,
+        "logs_malaysian": 43.1,
+        "sawnwood_cameroon": 175,
+        "logs_cameroon": 43,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 755.6,
+        "logs_malaysian": 185.8,
+        "sawnwood_cameroon": 753.8,
+        "logs_cameroon": 185.2,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1971,
+      "nominal": {
+        "sawnwood_malaysian": 175.7,
+        "logs_malaysian": 43.3,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 44.4,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 719.7,
+        "logs_malaysian": 177.2,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 182,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1972,
+      "nominal": {
+        "sawnwood_malaysian": 170.9,
+        "logs_malaysian": 41.1,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 52.5,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 641.8,
+        "logs_malaysian": 154.4,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 197.1,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1973,
+      "nominal": {
+        "sawnwood_malaysian": 223.5,
+        "logs_malaysian": 68,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 133.5,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 723.7,
+        "logs_malaysian": 220.3,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 432.1,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1974,
+      "nominal": {
+        "sawnwood_malaysian": 246.8,
+        "logs_malaysian": 81.7,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 120.4,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 655.8,
+        "logs_malaysian": 217,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 320,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1975,
+      "nominal": {
+        "sawnwood_malaysian": 223.4,
+        "logs_malaysian": 67.5,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 126.6,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 534.5,
+        "logs_malaysian": 161.5,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 302.8,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1976,
+      "nominal": {
+        "sawnwood_malaysian": 263.5,
+        "logs_malaysian": 92,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 142.3,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 622.8,
+        "logs_malaysian": 217.5,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 336.4,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1977,
+      "nominal": {
+        "sawnwood_malaysian": 265,
+        "logs_malaysian": 92.6,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 158.8,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 579.3,
+        "logs_malaysian": 202.4,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 347.1,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1978,
+      "nominal": {
+        "sawnwood_malaysian": 272.3,
+        "logs_malaysian": 97.4,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 191.3,
+        "plywood_cents_sheet": null
+      },
+      "real": {
+        "sawnwood_malaysian": 512.2,
+        "logs_malaysian": 183.1,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 359.8,
+        "plywood_cents_sheet": null
+      }
+    },
+    {
+      "year": 1979,
+      "nominal": {
+        "sawnwood_malaysian": 365.9,
+        "logs_malaysian": 170,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 211.5,
+        "plywood_cents_sheet": 262.5
+      },
+      "real": {
+        "sawnwood_malaysian": 617.1,
+        "logs_malaysian": 286.8,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 356.7,
+        "plywood_cents_sheet": 442.7
+      }
+    },
+    {
+      "year": 1980,
+      "nominal": {
+        "sawnwood_malaysian": 396.2,
+        "logs_malaysian": 195.5,
+        "sawnwood_cameroon": 396,
+        "logs_cameroon": 251.7,
+        "plywood_cents_sheet": 273.8
+      },
+      "real": {
+        "sawnwood_malaysian": 607.4,
+        "logs_malaysian": 299.8,
+        "sawnwood_cameroon": 607.1,
+        "logs_cameroon": 385.9,
+        "plywood_cents_sheet": 419.8
+      }
+    },
+    {
+      "year": 1981,
+      "nominal": {
+        "sawnwood_malaysian": 349.4,
+        "logs_malaysian": 154.6,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 212.8,
+        "plywood_cents_sheet": 244.7
+      },
+      "real": {
+        "sawnwood_malaysian": 535.1,
+        "logs_malaysian": 236.7,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 325.9,
+        "plywood_cents_sheet": 374.7
+      }
+    },
+    {
+      "year": 1982,
+      "nominal": {
+        "sawnwood_malaysian": 339.4,
+        "logs_malaysian": 146.5,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 175.9,
+        "plywood_cents_sheet": 232.4
+      },
+      "real": {
+        "sawnwood_malaysian": 535.7,
+        "logs_malaysian": 231.2,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 277.7,
+        "plywood_cents_sheet": 366.9
+      }
+    },
+    {
+      "year": 1983,
+      "nominal": {
+        "sawnwood_malaysian": 328.1,
+        "logs_malaysian": 137.7,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 160.8,
+        "plywood_cents_sheet": 229.8
+      },
+      "real": {
+        "sawnwood_malaysian": 532,
+        "logs_malaysian": 223.3,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 260.7,
+        "plywood_cents_sheet": 372.6
+      }
+    },
+    {
+      "year": 1984,
+      "nominal": {
+        "sawnwood_malaysian": 351.6,
+        "logs_malaysian": 156.8,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 175.6,
+        "plywood_cents_sheet": 227
+      },
+      "real": {
+        "sawnwood_malaysian": 583,
+        "logs_malaysian": 259.9,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 291.2,
+        "plywood_cents_sheet": 376.3
+      }
+    },
+    {
+      "year": 1985,
+      "nominal": {
+        "sawnwood_malaysian": 307.1,
+        "logs_malaysian": 121.7,
+        "sawnwood_cameroon": 307,
+        "logs_cameroon": 173.9,
+        "plywood_cents_sheet": 210.9
+      },
+      "real": {
+        "sawnwood_malaysian": 514.6,
+        "logs_malaysian": 204,
+        "sawnwood_cameroon": 514.3,
+        "logs_cameroon": 291.3,
+        "plywood_cents_sheet": 353.3
+      }
+    },
+    {
+      "year": 1986,
+      "nominal": {
+        "sawnwood_malaysian": 329.3,
+        "logs_malaysian": 138.6,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 221.6,
+        "plywood_cents_sheet": 273.7
+      },
+      "real": {
+        "sawnwood_malaysian": 479.7,
+        "logs_malaysian": 201.9,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 322.9,
+        "plywood_cents_sheet": 398.7
+      }
+    },
+    {
+      "year": 1987,
+      "nominal": {
+        "sawnwood_malaysian": 401.3,
+        "logs_malaysian": 201.8,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 258.9,
+        "plywood_cents_sheet": 399.4
+      },
+      "real": {
+        "sawnwood_malaysian": 533.4,
+        "logs_malaysian": 268.2,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 344.2,
+        "plywood_cents_sheet": 530.9
+      }
+    },
+    {
+      "year": 1988,
+      "nominal": {
+        "sawnwood_malaysian": 402.3,
+        "logs_malaysian": 200.9,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 271.3,
+        "plywood_cents_sheet": 358.8
+      },
+      "real": {
+        "sawnwood_malaysian": 502.2,
+        "logs_malaysian": 250.7,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 338.7,
+        "plywood_cents_sheet": 447.9
+      }
+    },
+    {
+      "year": 1989,
+      "nominal": {
+        "sawnwood_malaysian": 485.3,
+        "logs_malaysian": 190.6,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 273.8,
+        "plywood_cents_sheet": 350.3
+      },
+      "real": {
+        "sawnwood_malaysian": 609.4,
+        "logs_malaysian": 239.3,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 343.8,
+        "plywood_cents_sheet": 439.9
+      }
+    },
+    {
+      "year": 1990,
+      "nominal": {
+        "sawnwood_malaysian": 533.1,
+        "logs_malaysian": 177.2,
+        "sawnwood_cameroon": 533,
+        "logs_cameroon": 343.5,
+        "plywood_cents_sheet": 354.9
+      },
+      "real": {
+        "sawnwood_malaysian": 644.8,
+        "logs_malaysian": 214.3,
+        "sawnwood_cameroon": 644.7,
+        "logs_cameroon": 415.4,
+        "plywood_cents_sheet": 429.2
+      }
+    },
+    {
+      "year": 1991,
+      "nominal": {
+        "sawnwood_malaysian": 552.5,
+        "logs_malaysian": 191.5,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 316,
+        "plywood_cents_sheet": 372.4
+      },
+      "real": {
+        "sawnwood_malaysian": 674.5,
+        "logs_malaysian": 233.8,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 385.8,
+        "plywood_cents_sheet": 454.6
+      }
+    },
+    {
+      "year": 1992,
+      "nominal": {
+        "sawnwood_malaysian": 607.2,
+        "logs_malaysian": 209.5,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 331.3,
+        "plywood_cents_sheet": 380.8
+      },
+      "real": {
+        "sawnwood_malaysian": 727.7,
+        "logs_malaysian": 251.1,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 397,
+        "plywood_cents_sheet": 456.3
+      }
+    },
+    {
+      "year": 1993,
+      "nominal": {
+        "sawnwood_malaysian": 758.3,
+        "logs_malaysian": 389.8,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 310.3,
+        "plywood_cents_sheet": 661.4
+      },
+      "real": {
+        "sawnwood_malaysian": 878.4,
+        "logs_malaysian": 451.6,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 359.5,
+        "plywood_cents_sheet": 766.2
+      }
+    },
+    {
+      "year": 1994,
+      "nominal": {
+        "sawnwood_malaysian": 821,
+        "logs_malaysian": 307.5,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 330.3,
+        "plywood_cents_sheet": 601.2
+      },
+      "real": {
+        "sawnwood_malaysian": 980.6,
+        "logs_malaysian": 367.3,
+        "sawnwood_cameroon": null,
+        "logs_cameroon": 394.4,
+        "plywood_cents_sheet": 718
+      }
+    },
+    {
+      "year": 1995,
+      "nominal": {
+        "sawnwood_malaysian": 740,
+        "logs_malaysian": 255.6,
+        "sawnwood_cameroon": 596.1,
+        "logs_cameroon": 339.5,
+        "plywood_cents_sheet": 584.4
+      },
+      "real": {
+        "sawnwood_malaysian": 805,
+        "logs_malaysian": 278.1,
+        "sawnwood_cameroon": 648.5,
+        "logs_cameroon": 369.4,
+        "plywood_cents_sheet": 635.8
+      }
+    },
+    {
+      "year": 1996,
+      "nominal": {
+        "sawnwood_malaysian": 741.3,
+        "logs_malaysian": 252.1,
+        "sawnwood_cameroon": 512.4,
+        "logs_cameroon": 284.3,
+        "plywood_cents_sheet": 529.5
+      },
+      "real": {
+        "sawnwood_malaysian": 822.2,
+        "logs_malaysian": 279.6,
+        "sawnwood_cameroon": 568.3,
+        "logs_cameroon": 315.3,
+        "plywood_cents_sheet": 587.3
+      }
+    },
+    {
+      "year": 1997,
+      "nominal": {
+        "sawnwood_malaysian": 664.5,
+        "logs_malaysian": 238.3,
+        "sawnwood_cameroon": 563.6,
+        "logs_cameroon": 284.8,
+        "plywood_cents_sheet": 485
+      },
+      "real": {
+        "sawnwood_malaysian": 773.4,
+        "logs_malaysian": 277.3,
+        "sawnwood_cameroon": 655.9,
+        "logs_cameroon": 331.4,
+        "plywood_cents_sheet": 564.4
+      }
+    },
+    {
+      "year": 1998,
+      "nominal": {
+        "sawnwood_malaysian": 484.1,
+        "logs_malaysian": 162.4,
+        "sawnwood_cameroon": 526.3,
+        "logs_cameroon": 286.4,
+        "plywood_cents_sheet": 376.1
+      },
+      "real": {
+        "sawnwood_malaysian": 589.2,
+        "logs_malaysian": 197.7,
+        "sawnwood_cameroon": 640.5,
+        "logs_cameroon": 348.5,
+        "plywood_cents_sheet": 457.6
+      }
+    },
+    {
+      "year": 1999,
+      "nominal": {
+        "sawnwood_malaysian": 600.8,
+        "logs_malaysian": 187.1,
+        "sawnwood_cameroon": 455.2,
+        "logs_cameroon": 269.3,
+        "plywood_cents_sheet": 440.5
+      },
+      "real": {
+        "sawnwood_malaysian": 745.5,
+        "logs_malaysian": 232.2,
+        "sawnwood_cameroon": 564.8,
+        "logs_cameroon": 334.1,
+        "plywood_cents_sheet": 546.6
+      }
+    },
+    {
+      "year": 2000,
+      "nominal": {
+        "sawnwood_malaysian": 594.7,
+        "logs_malaysian": 189.9,
+        "sawnwood_cameroon": 489.1,
+        "logs_cameroon": 275.4,
+        "plywood_cents_sheet": 448.2
+      },
+      "real": {
+        "sawnwood_malaysian": 747.5,
+        "logs_malaysian": 238.7,
+        "sawnwood_cameroon": 614.7,
+        "logs_cameroon": 346.2,
+        "plywood_cents_sheet": 563.4
+      }
+    },
+    {
+      "year": 2001,
+      "nominal": {
+        "sawnwood_malaysian": 481.4,
+        "logs_malaysian": 159.1,
+        "sawnwood_cameroon": 471.9,
+        "logs_cameroon": 266.1,
+        "plywood_cents_sheet": 409.8
+      },
+      "real": {
+        "sawnwood_malaysian": 628.6,
+        "logs_malaysian": 207.7,
+        "sawnwood_cameroon": 616.3,
+        "logs_cameroon": 347.4,
+        "plywood_cents_sheet": 535.1
+      }
+    },
+    {
+      "year": 2002,
+      "nominal": {
+        "sawnwood_malaysian": 526.8,
+        "logs_malaysian": 163.4,
+        "sawnwood_cameroon": 486.3,
+        "logs_cameroon": 236,
+        "plywood_cents_sheet": 402.7
+      },
+      "real": {
+        "sawnwood_malaysian": 696.1,
+        "logs_malaysian": 215.9,
+        "sawnwood_cameroon": 642.6,
+        "logs_cameroon": 311.9,
+        "plywood_cents_sheet": 532.1
+      }
+    },
+    {
+      "year": 2003,
+      "nominal": {
+        "sawnwood_malaysian": 551,
+        "logs_malaysian": 187.2,
+        "sawnwood_cameroon": 551.6,
+        "logs_cameroon": 279.5,
+        "plywood_cents_sheet": 431.9
+      },
+      "real": {
+        "sawnwood_malaysian": 692,
+        "logs_malaysian": 235.1,
+        "sawnwood_cameroon": 692.8,
+        "logs_cameroon": 351,
+        "plywood_cents_sheet": 542.4
+      }
+    },
+    {
+      "year": 2004,
+      "nominal": {
+        "sawnwood_malaysian": 581.3,
+        "logs_malaysian": 197.3,
+        "sawnwood_cameroon": 586.4,
+        "logs_cameroon": 331.3,
+        "plywood_cents_sheet": 464.8
+      },
+      "real": {
+        "sawnwood_malaysian": 683.6,
+        "logs_malaysian": 232,
+        "sawnwood_cameroon": 689.6,
+        "logs_cameroon": 389.6,
+        "plywood_cents_sheet": 546.7
+      }
+    },
+    {
+      "year": 2005,
+      "nominal": {
+        "sawnwood_malaysian": 659.4,
+        "logs_malaysian": 203.1,
+        "sawnwood_cameroon": 559.1,
+        "logs_cameroon": 334.4,
+        "plywood_cents_sheet": 508.6
+      },
+      "real": {
+        "sawnwood_malaysian": 751.9,
+        "logs_malaysian": 231.6,
+        "sawnwood_cameroon": 637.6,
+        "logs_cameroon": 381.3,
+        "plywood_cents_sheet": 579.9
+      }
+    },
+    {
+      "year": 2006,
+      "nominal": {
+        "sawnwood_malaysian": 749.3,
+        "logs_malaysian": 239.4,
+        "sawnwood_cameroon": 622.9,
+        "logs_cameroon": 318.5,
+        "plywood_cents_sheet": 595.6
+      },
+      "real": {
+        "sawnwood_malaysian": 833.3,
+        "logs_malaysian": 266.2,
+        "sawnwood_cameroon": 692.6,
+        "logs_cameroon": 354.1,
+        "plywood_cents_sheet": 662.3
+      }
+    },
+    {
+      "year": 2007,
+      "nominal": {
+        "sawnwood_malaysian": 806.3,
+        "logs_malaysian": 268,
+        "sawnwood_cameroon": 759.8,
+        "logs_cameroon": 381.3,
+        "plywood_cents_sheet": 640.7
+      },
+      "real": {
+        "sawnwood_malaysian": 844.9,
+        "logs_malaysian": 280.8,
+        "sawnwood_cameroon": 796.2,
+        "logs_cameroon": 399.6,
+        "plywood_cents_sheet": 671.4
+      }
+    },
+    {
+      "year": 2008,
+      "nominal": {
+        "sawnwood_malaysian": 889.1,
+        "logs_malaysian": 292.3,
+        "sawnwood_cameroon": 958.3,
+        "logs_cameroon": 526.9,
+        "plywood_cents_sheet": 645.5
+      },
+      "real": {
+        "sawnwood_malaysian": 864.6,
+        "logs_malaysian": 284.3,
+        "sawnwood_cameroon": 931.9,
+        "logs_cameroon": 512.4,
+        "plywood_cents_sheet": 627.7
+      }
+    },
+    {
+      "year": 2009,
+      "nominal": {
+        "sawnwood_malaysian": 805.5,
+        "logs_malaysian": 287.2,
+        "sawnwood_cameroon": 748.9,
+        "logs_cameroon": 421.5,
+        "plywood_cents_sheet": 564.6
+      },
+      "real": {
+        "sawnwood_malaysian": 835.1,
+        "logs_malaysian": 297.7,
+        "sawnwood_cameroon": 776.4,
+        "logs_cameroon": 436.9,
+        "plywood_cents_sheet": 585.3
+      }
+    },
+    {
+      "year": 2010,
+      "nominal": {
+        "sawnwood_malaysian": 848.3,
+        "logs_malaysian": 278.2,
+        "sawnwood_cameroon": 812.7,
+        "logs_cameroon": 428.6,
+        "plywood_cents_sheet": 569.1
+      },
+      "real": {
+        "sawnwood_malaysian": 848.3,
+        "logs_malaysian": 278.2,
+        "sawnwood_cameroon": 812.7,
+        "logs_cameroon": 428.6,
+        "plywood_cents_sheet": 569.1
+      }
+    },
+    {
+      "year": 2011,
+      "nominal": {
+        "sawnwood_malaysian": 939.4,
+        "logs_malaysian": 390.5,
+        "sawnwood_cameroon": 825.8,
+        "logs_cameroon": 484.8,
+        "plywood_cents_sheet": 607.5
+      },
+      "real": {
+        "sawnwood_malaysian": 846,
+        "logs_malaysian": 351.7,
+        "sawnwood_cameroon": 743.7,
+        "logs_cameroon": 436.6,
+        "plywood_cents_sheet": 547.1
+      }
+    },
+    {
+      "year": 2012,
+      "nominal": {
+        "sawnwood_malaysian": 876.3,
+        "logs_malaysian": 360.5,
+        "sawnwood_cameroon": 759.3,
+        "logs_cameroon": 451.4,
+        "plywood_cents_sheet": 610.3
+      },
+      "real": {
+        "sawnwood_malaysian": 795,
+        "logs_malaysian": 327.1,
+        "sawnwood_cameroon": 688.9,
+        "logs_cameroon": 409.5,
+        "plywood_cents_sheet": 553.7
+      }
+    },
+    {
+      "year": 2013,
+      "nominal": {
+        "sawnwood_malaysian": 852.8,
+        "logs_malaysian": 305.4,
+        "sawnwood_cameroon": 749.2,
+        "logs_cameroon": 463.5,
+        "plywood_cents_sheet": 560.2
+      },
+      "real": {
+        "sawnwood_malaysian": 777,
+        "logs_malaysian": 278.3,
+        "sawnwood_cameroon": 682.6,
+        "logs_cameroon": 422.3,
+        "plywood_cents_sheet": 510.5
+      }
+    },
+    {
+      "year": 2014,
+      "nominal": {
+        "sawnwood_malaysian": 897.9,
+        "logs_malaysian": 282,
+        "sawnwood_cameroon": 789.5,
+        "logs_cameroon": 465.2,
+        "plywood_cents_sheet": 517.3
+      },
+      "real": {
+        "sawnwood_malaysian": 829.5,
+        "logs_malaysian": 260.5,
+        "sawnwood_cameroon": 729.3,
+        "logs_cameroon": 429.7,
+        "plywood_cents_sheet": 477.9
+      }
+    },
+    {
+      "year": 2015,
+      "nominal": {
+        "sawnwood_malaysian": 833.3,
+        "logs_malaysian": 246,
+        "sawnwood_cameroon": 732.6,
+        "logs_cameroon": 388.6,
+        "plywood_cents_sheet": 451.2
+      },
+      "real": {
+        "sawnwood_malaysian": 851.4,
+        "logs_malaysian": 251.4,
+        "sawnwood_cameroon": 748.5,
+        "logs_cameroon": 397,
+        "plywood_cents_sheet": 461.1
+      }
+    },
+    {
+      "year": 2016,
+      "nominal": {
+        "sawnwood_malaysian": 738.9,
+        "logs_malaysian": 274.4,
+        "sawnwood_cameroon": 649.6,
+        "logs_cameroon": 387.4,
+        "plywood_cents_sheet": 503.3
+      },
+      "real": {
+        "sawnwood_malaysian": 785.8,
+        "logs_malaysian": 291.8,
+        "sawnwood_cameroon": 690.9,
+        "logs_cameroon": 412,
+        "plywood_cents_sheet": 535.2
+      }
+    },
+    {
+      "year": 2017,
+      "nominal": {
+        "sawnwood_malaysian": 702.1,
+        "logs_malaysian": 265.4,
+        "sawnwood_cameroon": 617.3,
+        "logs_cameroon": 395.2,
+        "plywood_cents_sheet": 486.9
+      },
+      "real": {
+        "sawnwood_malaysian": 721.7,
+        "logs_malaysian": 272.8,
+        "sawnwood_cameroon": 634.5,
+        "logs_cameroon": 406.2,
+        "plywood_cents_sheet": 500.4
+      }
+    },
+    {
+      "year": 2018,
+      "nominal": {
+        "sawnwood_malaysian": 727.9,
+        "logs_malaysian": 269.7,
+        "sawnwood_cameroon": 640,
+        "logs_cameroon": 413.5,
+        "plywood_cents_sheet": 494.7
+      },
+      "real": {
+        "sawnwood_malaysian": 714.7,
+        "logs_malaysian": 264.8,
+        "sawnwood_cameroon": 628.3,
+        "logs_cameroon": 406,
+        "plywood_cents_sheet": 485.7
+      }
+    },
+    {
+      "year": 2019,
+      "nominal": {
+        "sawnwood_malaysian": 695.9,
+        "logs_malaysian": 273.1,
+        "sawnwood_cameroon": 611.8,
+        "logs_cameroon": 391.9,
+        "plywood_cents_sheet": 500.9
+      },
+      "real": {
+        "sawnwood_malaysian": 699.5,
+        "logs_malaysian": 274.5,
+        "sawnwood_cameroon": 615,
+        "logs_cameroon": 394,
+        "plywood_cents_sheet": 503.6
+      }
+    },
+    {
+      "year": 2020,
+      "nominal": {
+        "sawnwood_malaysian": 699.7,
+        "logs_malaysian": 278.9,
+        "sawnwood_cameroon": 615.2,
+        "logs_cameroon": 399.5,
+        "plywood_cents_sheet": 511.6
+      },
+      "real": {
+        "sawnwood_malaysian": 714.7,
+        "logs_malaysian": 284.9,
+        "sawnwood_cameroon": 628.4,
+        "logs_cameroon": 408,
+        "plywood_cents_sheet": 522.6
+      }
+    },
+    {
+      "year": 2021,
+      "nominal": {
+        "sawnwood_malaysian": 750,
+        "logs_malaysian": 271.4,
+        "sawnwood_cameroon": 659.3,
+        "logs_cameroon": 414.2,
+        "plywood_cents_sheet": 497.7
+      },
+      "real": {
+        "sawnwood_malaysian": 685.5,
+        "logs_malaysian": 248,
+        "sawnwood_cameroon": 602.7,
+        "logs_cameroon": 378.6,
+        "plywood_cents_sheet": 455
+      }
+    },
+    {
+      "year": 2022,
+      "nominal": {
+        "sawnwood_malaysian": 674.5,
+        "logs_malaysian": 228,
+        "sawnwood_cameroon": 593,
+        "logs_cameroon": 368.9,
+        "plywood_cents_sheet": 418.2
+      },
+      "real": {
+        "sawnwood_malaysian": 574.3,
+        "logs_malaysian": 194.1,
+        "sawnwood_cameroon": 504.9,
+        "logs_cameroon": 314.1,
+        "plywood_cents_sheet": 356.1
+      }
+    },
+    {
+      "year": 2023,
+      "nominal": {
+        "sawnwood_malaysian": 677.7,
+        "logs_malaysian": 212.4,
+        "sawnwood_cameroon": 595.9,
+        "logs_cameroon": 378.6,
+        "plywood_cents_sheet": 389.5
+      },
+      "real": {
+        "sawnwood_malaysian": 594,
+        "logs_malaysian": 186.1,
+        "sawnwood_cameroon": 522.2,
+        "logs_cameroon": 331.8,
+        "plywood_cents_sheet": 341.4
+      }
+    },
+    {
+      "year": 2024,
+      "nominal": {
+        "sawnwood_malaysian": 696.5,
+        "logs_malaysian": 196.7,
+        "sawnwood_cameroon": 612.4,
+        "logs_cameroon": 378.7,
+        "plywood_cents_sheet": 360.9
+      },
+      "real": {
+        "sawnwood_malaysian": 605.2,
+        "logs_malaysian": 170.9,
+        "sawnwood_cameroon": 532,
+        "logs_cameroon": 329,
+        "plywood_cents_sheet": 313.5
+      }
+    },
+    {
+      "year": 2025,
+      "nominal": {
+        "sawnwood_malaysian": 718.4,
+        "logs_malaysian": 199.1,
+        "sawnwood_cameroon": 631.6,
+        "logs_cameroon": 395.4,
+        "plywood_cents_sheet": 365.2
+      },
+      "real": {
+        "sawnwood_malaysian": 618.8,
+        "logs_malaysian": 171.5,
+        "sawnwood_cameroon": 544,
+        "logs_cameroon": 340.6,
+        "plywood_cents_sheet": 314.6
+      }
+    }
+  ]
+}

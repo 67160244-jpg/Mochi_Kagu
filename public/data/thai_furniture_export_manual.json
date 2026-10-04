@@ -1,0 +1,78 @@
+{
+  "data_type": "secondary",
+  "source_organization": "กระทรวงพาณิชย์ จัดทำโดย Bangkok Bank Research",
+  "report_title": "รายงานอุตสาหกรรม: การส่งออกเฟอร์นิเจอร์ไทย",
+  "report_date": "2024-11-27",
+  "accessed_date": "2026-10-05",
+  "note": "ข้อมูลปี พ.ศ. 2567 ตรงกับปี ค.ศ. 2024 (ข้อมูลล่าสุดถึงเดือน ต.ค. 2024)",
+  "figures": {
+    "export_value_oct_2024_usd_million": 130.3,
+    "export_oct_2024_yoy_pct": 11,
+    "export_oct_2024_mom_pct": 2.4,
+    "export_value_10m_2024_usd_million": 1197.8,
+    "export_10m_2024_yoy_pct": 7.2,
+    "export_value_full_year_2023_usd_million": 1357.1,
+    "annual_peak_2014_2024": {
+      "year_be": 2564,
+      "year_ce": 2021,
+      "value_usd_million": 1671.6,
+      "note": "ค่าสูงสุดรายปีในช่วง 2557–2567"
+    },
+    "annual_trough_2014_2024": {
+      "year_be": 2558,
+      "year_ce": 2015,
+      "value_usd_million": 1050.9,
+      "note": "ค่าต่ำสุดรายปีในช่วง 2557–2567"
+    },
+    "annual_avg_growth_pct": 1.4,
+    "cagr_pct": 0.9,
+    "top_5_export_markets": [
+      {
+        "rank": 1,
+        "country": "สหรัฐอเมริกา"
+      },
+      {
+        "rank": 2,
+        "country": "ญี่ปุ่น"
+      },
+      {
+        "rank": 3,
+        "country": "จีน"
+      },
+      {
+        "rank": 4,
+        "country": "มาเลเซีย"
+      },
+      {
+        "rank": 5,
+        "country": "ออสเตรเลีย"
+      }
+    ],
+    "annual_history": [
+      {
+        "year_ce": 2015,
+        "year_be": 2558,
+        "value": 1050.9,
+        "note": "จุดต่ำสุดรอบ 10 ปี"
+      },
+      {
+        "year_ce": 2021,
+        "year_be": 2564,
+        "value": 1671.6,
+        "note": "จุดสูงสุดรอบ 10 ปี (ยุค Work-from-Home)"
+      },
+      {
+        "year_ce": 2023,
+        "year_be": 2566,
+        "value": 1357.1,
+        "note": "มูลค่าทั้งปีล่าสุดที่มีบันทึก"
+      },
+      {
+        "year_ce": 2024,
+        "year_be": 2567,
+        "value": 1197.8,
+        "note": "10 เดือนแรก 2567 (+7.2% YoY)"
+      }
+    ]
+  }
+}
